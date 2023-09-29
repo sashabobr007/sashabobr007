@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm a 4rd year student at MPEI University with a degree in software engineering and passionate Junior Ml/DE developer with a love for learning and problem solving. More than a year on personal Swift projects. I try to write clean and easy-to-read code, learn new things in order to improve myself, apt to accept new challenges.
+I'm a 4rd year student at MPEI University with a degree in software engineering and passionate Junior Ml/DE developer with a love for learning and problem solving. More than a year on personal ML projects. I try to write clean and easy-to-read code, learn new things in order to improve myself, apt to accept new challenges.
 
 ## Editors ⚒️
 
